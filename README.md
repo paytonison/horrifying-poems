@@ -1,1 +1,8 @@
-# horrifying-poems
+# Everyone's a critic (especially me)
+
+## Summary
+The document is a collection of short, surreal vignettes set in the fictional town of **Melancholy Valley**, a mysterious and magical place located near a bog. The town is home to strange phenomena such as ghosts, sentient shadows, eldritch creatures, talking animals, and bizarre supernatural entities. Its residents are largely accustomed to the town’s oddities, but change is introduced when a large corporation begins industrializing the area, exploiting and commodifying its mystical elements. This tension between the magical and the mechanical underlies much of the collection.
+
+Each story introduces a different character, situation, or piece of the town’s mythology. There is no central narrative, but recurring motifs include the bog, a spiritual realm called “Another Place,” and the gradual loss of mystery in the face of modernization. Stories vary in tone and format, ranging from poetic monologues to faux advertisements. Some highlight individual experiences with the supernatural—such as befriending crows that eat silverware or encountering creatures like "The Sludge" or "The Eye Thief"—while others describe broader phenomena, like stars falling from the sky or the sentient labyrinth of tunnels called "The Veins" beneath the town.
+
+Overall, the collection functions as a world-building exercise designed to piece together an atmospheric and whimsical setting through fragmented storytelling. The aim is to create a rich tapestry of lore that, over time, reveals the town’s character through its strange inhabitants and magical events.
